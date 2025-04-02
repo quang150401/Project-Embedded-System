@@ -4,6 +4,10 @@
 	(generator_version "9.0")
 	(uuid "92d4827d-2512-480e-8388-52142f7de1b2")
 	(paper "A4")
+	(title_block
+		(title "Schematic")
+		(comment 1 "HO CHI MINH CITY UNIVERSITY OF TECHNOLOGY")
+	)
 	(lib_symbols
 		(symbol "Connector:USB_C_Receptacle_USB2.0_14P"
 			(pin_names
